@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+TIOruIyoyG/PtAnhm7mVXiH0cAHBBnELaG3UHqPEbs4ruu777jMoXAiDSP26u3y0o7H+C6IK4hWtxtxiXHz8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikumar\\source\\repos\\MACHSample\\MACHSample\\MACHSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikumar\\.nuget\\packages\\syncfusion.grid.windows\\20.3.0.58\\syncfusion.grid.windows.20.3.0.58.nupkg.sha512",
+    "C:\\Users\\vikumar\\.nuget\\packages\\syncfusion.licensing\\20.3.0.58\\syncfusion.licensing.20.3.0.58.nupkg.sha512",
+    "C:\\Users\\vikumar\\.nuget\\packages\\syncfusion.shared.base\\20.3.0.58\\syncfusion.shared.base.20.3.0.58.nupkg.sha512",
+    "C:\\Users\\vikumar\\.nuget\\packages\\syncfusion.shared.windows\\20.3.0.58\\syncfusion.shared.windows.20.3.0.58.nupkg.sha512"
+  ],
+  "logs": []
+}
